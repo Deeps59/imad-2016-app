@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>
+            Article Two | Deepak Saidam
+        </title>
+        <meta name="viewport" content="width=device-width, intial-scale=1"/>
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>
+            Article Two
+        </h3>
+        <div>
+            Sep 5 2016
+        </div>
+        <div>
+            <p>
+                This is the content of the second ariticle. IN this article we've created the html file with basic commands in html.
+            </p>
+            <p>
+                This is the second paragraph of the article.
+            </p>
+        </div>
+    </body>
+</html>
