@@ -1,10 +1,10 @@
 var express = require('express');
-var morgan = require('morgan');
+var morgan = require('morgan');//importing packages
 var path = require('path');
 
 var app = express();
 app.use(morgan('combined'));
-
+//lines 8,12 and 16 handling specific urls
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
